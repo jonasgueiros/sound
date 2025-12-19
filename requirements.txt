@@ -1,0 +1,12 @@
+numpy==2.3.4
+scipy==1.16.2
+sounddevice==0.5.3
+PyQt5==5.15.9
+matplotlib==3.10.7
+librosa==0.11.0
+pyaudio==0.2.14
+pycaw>=20220416
+comtypes==1.4.13
+ 
+# Optional: build native DSP module (Rust)
+# Install maturin to build pyo3 extension: pip install maturin

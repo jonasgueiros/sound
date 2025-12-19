@@ -1,0 +1,1 @@
+&PyArray<f32, numpy::ndarray::Dim<[usize; 1]>>: PyFunctionArgument<'_, '_>

@@ -1,0 +1,205 @@
+{
+  "theme": "Dark",
+  "unified_device_mode": true,
+  "unified_output_device": 5,
+  "unified_input_device": 0,
+  "session_overrides_by_name": {
+    "zen.exe": "others"
+  },
+  "equalizer": {
+    "enabled": true,
+    "preset": "Flat",
+    "bands": 10,
+    "gains": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "equalizer_settings": {
+    "bands": 10,
+    "profiles": {
+      "Default": {
+        "game": {
+          "enabled": true,
+          "preset": "Flat",
+          "bands": 10,
+          "gains": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "others": {
+          "enabled": true,
+          "preset": "Flat",
+          "bands": 10,
+          "gains": []
+        },
+        "system": {
+          "enabled": true,
+          "preset": "Flat",
+          "bands": 10,
+          "gains": []
+        },
+        "chat": {
+          "enabled": true,
+          "preset": "Flat",
+          "bands": 10,
+          "gains": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "microphone": {
+          "enabled": true,
+          "preset": "Flat",
+          "bands": 10,
+          "gains": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "Gaming": {
+        "game": {
+          "enabled": true,
+          "preset": "Flat",
+          "bands": 31,
+          "gains": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "others": {
+          "enabled": false,
+          "preset": "Flat",
+          "bands": 10,
+          "gains": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "system": {
+          "enabled": false,
+          "preset": "Flat",
+          "bands": 10,
+          "gains": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "chat": {
+          "enabled": true,
+          "preset": "Flat",
+          "bands": 10,
+          "gains": [
+            0.0,
+            0.0,
+            1.0,
+            2.0,
+            2.0,
+            1.0,
+            0.0,
+            -1.0,
+            -2.0,
+            -1.0
+          ]
+        },
+        "microphone": {
+          "enabled": true,
+          "preset": "Flat",
+          "bands": 10,
+          "gains": [
+            0.0,
+            0.0,
+            1.0,
+            2.0,
+            2.0,
+            1.0,
+            0.0,
+            -1.0,
+            -2.0,
+            -1.0
+          ]
+        }
+      }
+    },
+    "active_profile": "Default"
+  }
+}
